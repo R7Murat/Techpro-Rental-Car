@@ -157,11 +157,4 @@ WantedBy=multi-user.target
 5. Pull request oluşturun
 
 
-
-## 🙏 Teşekkürler
-
-Bu projeye katkıda bulunan herkese teşekkürler!
-
----
-
 ⭐️ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
