@@ -156,14 +156,7 @@ WantedBy=multi-user.target
 4. Branch'inizi push'layın
 5. Pull request oluşturun
 
-## 📄 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 📞 İletişim
-
-- Website: [www.techprodevops.com](http://www.techprodevops.com)
-- Email: [info@techprodevops.com](mailto:info@techprodevops.com)
 
 ## 🙏 Teşekkürler
 
